@@ -17,6 +17,7 @@ System programming is a lecture at [Ondokuz Mayis University Department of Compu
 - Creating multi-threaded C programs
 - Thread synchronization
 
+#### **NOTE**: Every code piece in this repository that written in C meant to be compiled and run in *nix systems
 
 ## TR
 
@@ -33,3 +34,5 @@ Sistem programlama [Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği Böl�
 - Proses senkronizasyonu
 - Çok iş parçacıklı programlama yapmak
 - İş parçacığı senkronizasyonu
+
+#### **NOT**: Bu depodaki her bir C kod parçası *nix sistemlerde derlenecek ve çalıştırılacak şekilde tasarlanmıştır
