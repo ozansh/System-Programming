@@ -16,3 +16,6 @@ Some Useful Flags:
 - O_WRONLY (opens file with read and write permissions)
 - O_CREAT (creates a file if specified file doesnt exist)
 - O_APPEND (I am not sure but I think with this flag, file descriptor starts at end of file instead of beggining of it)
+
+## TR
+**Yakın zamanda dökümantasyonu hazırlayacağım.**
