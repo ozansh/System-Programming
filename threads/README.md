@@ -1,0 +1,1 @@
+I get these codes from geeksforgeeks.com, these are just for example, I will rewrite codes myself in the earliest time since I DON'T OWN THESE CODE
